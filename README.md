@@ -215,13 +215,3 @@ The frontend uses local storage and cached states to simulate offline-first func
 - Advanced analytics dashboard
 
 ---
-
-# 👨‍💻 Author
-
-Developed as a full-stack environmental AI project prototype using React and FastAPI.
-
----
-
-# 📜 License
-
-This project is for educational and prototype purposes.
